@@ -26,10 +26,6 @@
 
 ###
 
-<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LauraLobo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauraLobo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -37,8 +33,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LauraLobo/LauraLobo/output/snake.svg" alt="Snake animation" />
+<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 
 ###
